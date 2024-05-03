@@ -212,7 +212,7 @@
                     </a>
                 </div> --}}
 
-                <a href="{{ route('login') }}" class="text-center">I already have a membership</a>
+                <a href="{{ route('login') }}" class="text-center w-100 d-inline-block p-2">I already have a membership</a>
             </div>
             <!-- /.form-box -->
         </div><!-- /.card -->
